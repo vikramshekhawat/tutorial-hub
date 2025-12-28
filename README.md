@@ -147,4 +147,3 @@ The application uses H2 in-memory database. You can access the H2 console at:
 - Passwords are encrypted using BCrypt
 - CORS is configured to allow requests from `http://localhost:3000`
 - The H2 database is in-memory and data will be lost on application restart
-
